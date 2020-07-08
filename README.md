@@ -1,6 +1,6 @@
-Flask To Do App
+Flask Projects
 
-     This To Do app has been Created With Flask and is hosted using Pythonanywhere to make your life easier.
+     This Repository is Being Created to classify the Projects of small Flask Projects.
 
 Installation and Running
 
@@ -17,11 +17,11 @@ Frameworks
 
 Features
 
-    It cuts out the Problem of Every One of finding a Minimalist To - Do App
+    This will make a Beginner to learn Flask from the Very Basics
 
 Future Developments
 
-    Will Create a Login Logout System for an Individual so Everyone can use it and can see only his to do list
+    Will Keep Udating this Repository and make Every thing You all Will Suggest me using the Contact Details given Below.
 
 Contact Details: 
     
