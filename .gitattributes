@@ -1,2 +1,2 @@
-templates/* linguist-vendored
-static/* linguist-vendored
+"Flask To - Do App/templates/*" linguist-vendored
+"Flask To - Do App/static/*" linguist-vendored
