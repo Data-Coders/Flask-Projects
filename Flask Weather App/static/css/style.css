@@ -1,0 +1,35 @@
+.stylewithaman {
+  margin-left: 53%;
+}
+
+#inputwalaform {
+  margin-top: 3%;
+}
+
+#foot {
+  margin-top: 8%;
+  padding: 0%;
+}
+
+.firsthfour {
+  color: black;
+  margin-left: 7%;
+}
+
+.secondhfour {
+  color: black;
+  margin-left: 7%;
+}
+
+.heading {
+  font-family: "Ubuntu Condensed", sans-serif;
+  background-color: lightblue;
+}
+
+#weather {
+  margin-top: 4%;
+}
+
+body {
+  background-color: sandybrown;
+}
